@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan Android2</string>
+    <string name="prompt_negara">Pilih Negara</string>
+    <string-array name="negara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Arab Saudi</item>
+    </string-array>
+</resources>
